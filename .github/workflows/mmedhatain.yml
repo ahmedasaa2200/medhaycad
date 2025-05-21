@@ -7,7 +7,7 @@ jobs:
   build:
     name: g
     runs-on: windows-latest
-    timeout-minutes: 240
+    timeout-minutes: 333
     
     steps:
       - name: ssentials
